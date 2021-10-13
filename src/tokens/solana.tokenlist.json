@@ -8806,7 +8806,8 @@
       "extensions": {
         "website": "https://synthetify.io/",
         "twitter": "https://twitter.com/synthetify",
-        "coingeckoId": "synthetify-token"
+        "coingeckoId": "synthetify-token",
+        "serumV3Usdc": "DPfj2jYwPaezkCmUNm5SSYfkrkz8WFqwGLcxDDUsN3gA"
       }
     },
     {
