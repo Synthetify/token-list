@@ -1,10 +1,6 @@
 {
   "name": "@solana/spl-token-registry",
-<<<<<<< HEAD
-  "version": "0.2.272",
-=======
   "version": "0.2.275",
->>>>>>> 4a789ec7999b3e2f9c3ff2f6201609d9236dbbb2
   "description": "Solana Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
